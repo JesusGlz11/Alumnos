@@ -1,0 +1,19 @@
+
+
+Nombre : Jesus Eduardo Rodriguez 
+Apellidos: Gonzalez
+Genero: M
+Edad: 22
+Matricula: 191801054
+Grupo: M
+Carrera: Ticis
+Materias reprobadas: 1
+
+Nombre : Jordi 
+Apellidos: lopez
+Genero: M
+Edad: 23
+Matricula: 19182345
+Grupo: M-4
+Carrera: Tics
+Materias reprobadas: 3
